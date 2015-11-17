@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Wibiya is a free website share toolbar.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Note: Wibiya.com is in no way related to conduit.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Contact me through @dbashyal on Twitter, LinkedIn or YouTube.
