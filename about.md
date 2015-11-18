@@ -8,7 +8,9 @@ Wibiya is a free website share toolbar.
 
 ### More Information
 
-Note: Wibiya.com is in no way related to conduit.
+How to install free toolbar? [Instructions Here]({{ site.baseurl }}/install-wibiya-toolbar/)
+
+How can I raise issues? [Read Here] (https://github.com/Wibiya/cdn/issues)
 
 ### Contact me
 
